@@ -2,7 +2,7 @@
 
 - UI
   - Collection View
-    - [Swipe Cell](README.md)
+    - [Swipe Cell](README.md#swipe-cell)
     - Expandable Cell
     - Custom Layout
     - Header / Footer
